@@ -485,7 +485,7 @@ footer {
     }
 
     .info {
-        width: 90%;
+        width: 80% !important;
         margin: 0 auto;
     }
 
