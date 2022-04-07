@@ -489,6 +489,10 @@ footer {
         margin: 0 auto;
     }
 
+    #multi-player .info h2 {
+        font-size: 3.5rem !important;
+    }
+
     #get-the-game .item-store {
         display: flex;
         flex-direction: column;
